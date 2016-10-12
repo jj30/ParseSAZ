@@ -2,6 +2,7 @@
 This parses SAZ files outputted by Fiddler. It's a performance tool.
 
 Steps: 
+
 0) Create a DSN on a windows machine to the local SQL Database. Edit the connection string in the script. 
 
 1) Save Fiddler output as SAZ file
